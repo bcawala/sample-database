@@ -1,5 +1,5 @@
 
---SCRIPT DOWNLODED FROM 
+--SCRIPT DOWNLODED FROM  https://github.com/bcawala/sample-database/blob/main/oracle/northwind/northwind.sql
 
 --CREATE USER
 
